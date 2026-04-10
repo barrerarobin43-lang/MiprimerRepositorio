@@ -6,6 +6,6 @@
 cadena = "  el nido matinal  "
 print("asi normal: ", cadena)
 
-limpio = cadena.strip().title()
+limpio = cadena.strip().title("30" "-")
 
 print("sin espacios y mayus las primeras: ", limpio)
